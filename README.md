@@ -9,8 +9,8 @@ The autonomous drone has a wheelbase of 3.5 inches, with material costs around 4
 https://docs.qq.com/sheet/DY2hXQXZRa0pmUGpl
 
 ## Flying And Navigation Test Video 
-- <a href="https://www.bilibili.com/video/BV1SM411Z76H/?share_source=copy_web&vd_source=7b01d34d2559e7724da23dc510cf1bf2>【TianFly初代导航测试视频】  Navigation Test </a>
-- <a href="https://www.bilibili.com/video/BV1VK4y1B7Rb/?share_source=copy_web&vd_source=7b01d34d2559e7724da23dc510cf1bf2>【开源】TianFly的玩弄与测试】All kinds of test </a>
+- <a href="https://www.bilibili.com/video/BV1SM411Z76H/?share_source=copy_web&vd_source=7b01d34d2559e7724da23dc510cf1bf2">【TianFly初代导航测试视频】  Navigation Test </a>
+- <a href="https://www.bilibili.com/video/BV1VK4y1B7Rb/?share_source=copy_web&vd_source=7b01d34d2559e7724da23dc510cf1bf2">【开源】TianFly的玩弄与测试】All kinds of test </a>
 
 
 
