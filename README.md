@@ -15,8 +15,9 @@ https://docs.qq.com/sheet/DY2hXQXZRa0pmUGpl
 
 
 ## Other
-.img is here, 
-
+.img is here：
+- <a href="https://pan.baidu.com/s/12DPTXrnVhUrsOjCbikLacw?pwd=TUAV">百度云 CN</a>
+Google Drive: To Be Continued
 
 ## Related packages
 
